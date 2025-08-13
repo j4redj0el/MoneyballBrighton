@@ -14,7 +14,7 @@ How effective are their data-driven strategies?
 
 ## Aim of Project 
 
-This project aims to explore how effective was Brighton's 'Moneyball' Approach, and how the team consistenty stays competitive in both the transfer market and in the Premier League
+This project aims to explore how effective Brighton's 'Moneyball' Approach, and how the team consistently stays competitive in both the transfer market and in the Premier League
 
 ## Data Sources 
 
