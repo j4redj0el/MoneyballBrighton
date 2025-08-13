@@ -12,3 +12,12 @@ The concept of Data-driven scouting and decision-making is not foreign in the Pr
 
 How effective are their data-driven strategies?
 
+## Aim of Project 
+
+This project aims to explore how effective was Brighton's 'Moneyball' Approach, and how the team consistenty stays competitive in both the transfer market and in the Premier League
+
+## Data Sources 
+
+- TransferMarkt Retrieved from [Kaggle](https://www.kaggle.com/datasets/davidcariboo/player-scores/data)
+
+Link to full article found here [here](https://medium.com/@jjaredtan/moneyball-in-english-football-analysing-the-effectiveness-of-brighton-s-data-driven-business-b08ae9ff0b48)
